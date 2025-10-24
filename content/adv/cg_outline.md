@@ -1,11 +1,10 @@
 ---
-title: Tools
+title: CG Outline (Tools)
 dg-publish: true
 date created: 2024-01-10
 date modified: 2024-01-10
 ---
 
-[Academy Software Foundation - ASWF](https://www.aswf.io/)
 
 <img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/1706417312928.webp" alt="1706417312928" width=600/>
 
@@ -255,12 +254,6 @@ OpenSource
 > Houdini引擎 Houdini Engine
 
 > Sentis [About Sentis Beta - AI Beta / Sentis - Unity Discussions](https://discussions.unity.com/t/about-sentis-beta/260899/1)
-
-## 制作考虑
-
-动画融合-Mixamo  
-Houdini程序化生成（地形，建筑，场景…）  
-动作捕捉，面部捕捉
 
 ## 工具插件
 
