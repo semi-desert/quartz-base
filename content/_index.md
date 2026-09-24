@@ -11,6 +11,8 @@ dg-home: true
 
 [[picture|Picture]] （我的愿景）
 
+[[my_research|My Research]] （我的研究）
+
 # Entrance 2
 
 ### 2024-11-10 - 简易感应小灯+远程电脑开机 Infrared Sensor Lamp (light) 
