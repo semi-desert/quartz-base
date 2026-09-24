@@ -11,6 +11,8 @@ dg-home: true
 
 [[picture|Picture]] （我的愿景）
 
+[[my_research|My Research]] （我的研究）
+
 # Entrance 2
 
 ### 2024-05-20 - 制作可联网控制的小灯
